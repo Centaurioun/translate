@@ -25,3 +25,4 @@ python-Levenshtein>=0.12    # Levenshtein
 ruamel.yaml==0.17.21 # YAML
 # Format support
 vobject==0.9.6.1     # iCal
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
